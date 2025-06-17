@@ -6,11 +6,12 @@ Proyek ini melakukan ekstraksi fitur dari berita berbahasa Indonesia menggunakan
 
 ## 🧩 Fitur Utama
 
+- 🧼 **Pembersihan Teks** dari sumber berita seperti Liputan6, TurnBackHoax, Kompas, Fimela, dll.
 - 🔍 **Ekstraksi Embeddings** dari judul dan isi berita menggunakan IndoBERT
 - 🧠 **KMeans Clustering** berdasarkan gabungan embedding judul dan isi
 - 📉 **Penentuan Jumlah Kluster Optimal** dengan metode Elbow
 - 📚 **Analisis Frekuensi Kata Terbanyak** per kluster
-- 🧼 **Pembersihan Teks** dari sumber berita seperti Liputan6, TurnBackHoax, Kompas, Fimela, dll.
+
 
 ---
 
